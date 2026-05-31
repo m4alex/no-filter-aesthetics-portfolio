@@ -9,7 +9,7 @@ A professional, multi-page website for a medical aesthetics and wellness practic
 ## Demo
 
 
-[![No Filter Aesthetics Website Demo](NFA_thumbnail .png)](https://youtu.be/16IWKhFvCTU)
+[![No Filter Aesthetics Website Demo](NFA_thumbnail.png)](https://youtu.be/16IWKhFvCTU)
 
 
 
